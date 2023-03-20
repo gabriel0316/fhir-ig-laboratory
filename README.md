@@ -1,6 +1,6 @@
 # FHIR IG Laboratory
 
-This repository is mainly thought to visualize the data model of the HL7 EU FHIR IG for the laboratory domain.
+This repository is mainly thought to visualize the data model of the [HL7 EU FHIR IG for the laboratory domain](https://github.com/hl7-eu/laboratory).
 
 ![FHIR Data Model](fhir_structure.drawio.svg)
 
