@@ -22,7 +22,7 @@ Composition o-- "1..*" PractitionerRole : author
 Composition o-- "1..1" PractitionerRole : attester (legal)
 Composition o-- "0..1" Encounter : encounter
 Composition o-- "0..*" Section
-Composition o-- "1..1" Subject : subject
+Composition o-- "1..1" Patient : subject
 Composition o-- "0..*" ServiceRequest : basedOn-order-or-requisition
 
 DiagnosticReport o-- "1..1" Composition : DiagnositcReportCompositionR5
